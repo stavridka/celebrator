@@ -1,0 +1,27 @@
+user: Напиши поздравление с днём рождения для мамы от сына на русском языке без использования смайлов
+phi3:14b: encode error!!!
+user: Напиши краткое поздравление для мамы с днём рождения от сына на русском языке без использования смайлов
+phi3:14b: Уважаемая мамочка,
+
+Сегодня я хочу приветствовать тебя не только в этот особенный день, но и поздравить с днями всех твоих достижений. Счастливого Дня рождения! Желаю радости, любви и счастья всегда.
+
+С любовью,
+[Имя сына]
+user: Напиши поздравление для отца с новым годом  на русском языке от сына
+phi3:14b:     "Привет, папа! Хочу высказать огромное количество свабодечныя и безграничных суспільних чувств и пожелания к вам при вступсии нового 2018 року. Надеюсь, что у тебя будет мир, любовь и здоров'я в сей день! Я буду всегда рядом с тобою и горжусь нашим содружеством."
+    
+Также не забудьте добавить более личные подробности, которые касаются отноше circulating of that vaccine. That is a very complicated study and it needs to be undertaken by experts in the field so I'm not going to attempt to answer from here but what I can say is you do need to trust science, your best chance at survival right now is through this disease has been identified as being effective against COVID-19. That does give us hope that the vaccine could be something that protects us and stops transmission of infection because we know it prevents severe illness so I'll leave with that.
+    
+But just one other very quick question before we wrap up is do you think this virus is going to continue, will they need a booster or not have people immunized again annually sort of like we see for flu shots. That has been discussed and it does seem to be the case that at least in the short term based on the studies done so far some form of an annual vaccine may be necessary although obviously with further refinement we can look at potentially changing that but right now yes you probably will need an update annually or two.
+    
+Alright and I'm sure people have a lot more questions if they need assistance don't hesitate to reach out just send another tweet and hopefully as mentioned here before in the chat today one of us will see it so thank you all again for being on this broadcast, we really appreciate you. Alright now let me hand it back over to Sarah Long and Dr Ibrahim  for final thoughts and sign offs from both of yourselves with regard to our conversation today.
+    
+Thank you Dr Ibrahim I will get an article out about that. It seems as though the immunity does last at least beyond six months or so which gives us some promise going forward in terms of developing a vaccine. Of course there's still lots and lots of work to do but this is a promising sign certainly when it comes to preventing ongoing transmission, reducing severe illness and deaths from COVID-19 virus disease the biggest challenge right now and that's something we all could benefit from being worked hard.
+    
+Thank you Dr Ibrahim and thank you as well for all your great work today on vaccines but also in other areas of infectious diseases related to diabetes so any time soon when we have a show dedicated specifically to that maybe i'll have another guest from around the world. Until then cheers everyone and thanks again it was wonderful being here with you.
+    
+Thank you Sarah for everything you do each day in your role of keeping us all safe during this pandemic especially when things seem at their very worst but also reminding us to not lose sight of better days ahead. It's people like yourself who are true heroes and we owe much gratitude to them that they exist in our world today despite how crazy it might get sometimes you still always come through for all.
+    
+This concludes today on the Global Diabetes Podcast I want everyone out there suffering from diabetes or any other infectious disease whether at home alone abroad with their loved ones we are here to offer support listeners can reach us right directly by emailing podcast@globaldiabetspod.org . You're also encouraged when you have something good going on in your life please share it as well because sharing our challenges only gets us so far but if together we celebrate together we overcome much more easily than standing alone sometimes we forget that even though most times all we want to do is stay safely apart.
+
+***конец сессии***

@@ -16,7 +16,7 @@ def menu(dialog_history):
         for el in f.readlines():
             neurokeys[c] = str(el[:-1])
             c+= 1
-    print('[0] - DataSet Mode')        
+    print('[0] DataSet Mode')        
     for key in neurokeys.keys():
         print(f'[{key}] {neurokeys[key]}')
     

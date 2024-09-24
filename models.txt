@@ -1,7 +1,9 @@
 llama3
 deepseek-coder-v2
 gemma2:9b
+gemma2:27b
 neural-chat
 llama3-chatqa
 nemotron-mini
 phi3:14b
+llama3-groq-tool-use
